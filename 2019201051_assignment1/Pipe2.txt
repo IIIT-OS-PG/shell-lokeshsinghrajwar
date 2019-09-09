@@ -1,0 +1,6 @@
+total 120
+-rw-r--r-- 1 lokesh lokesh  11434 Sep  5 23:28 myshell.cpp
+-rwxr-xr-x 1 lokesh lokesh 100272 Sep  5 23:28 myshell.out
+-rw-r--r-- 1 lokesh lokesh     32 Sep  5 23:28 myshellrc.txt
+-rw-r--r-- 1 lokesh lokesh    302 Sep  5 23:25 Pipe2.txt
+-rw-r--r-- 1 lokesh lokesh      0 Sep  5 23:28 Pipe.txt
